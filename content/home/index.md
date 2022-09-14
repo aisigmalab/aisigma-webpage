@@ -1,6 +1,6 @@
 ---
 title: "AI Sigma Webpage"
-draft: true
+draft: false
 weight: 0
 ---
 
