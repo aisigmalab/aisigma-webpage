@@ -2,3 +2,8 @@ baseURL = 'https://aisigmalab.github.io/'
 languageCode = 'ja'
 title = 'AI Sigma Webpage'
 theme = "introduction"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
